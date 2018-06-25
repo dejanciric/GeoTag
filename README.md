@@ -1,4 +1,4 @@
-# [GeoTag] (https://geotagdp.000webhostapp.com/)
+# [GeoTag](https://geotagdp.000webhostapp.com/)
 
 ## Getting Started
 
